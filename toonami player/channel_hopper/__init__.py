@@ -1,0 +1,1 @@
+"""Desktop stream player package."""

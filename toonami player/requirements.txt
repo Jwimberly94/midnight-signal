@@ -1,0 +1,2 @@
+PySide6>=6.8
+python-vlc>=3.0.21203
